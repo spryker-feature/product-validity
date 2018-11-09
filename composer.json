@@ -1,0 +1,12 @@
+{
+  "name": "spryker-feature/product-validity",
+  "description": "Product Validity [feature]",
+  "type": "metapackage",
+  "license": "proprietary",
+  "minimum-stability": "dev",
+  "require": {
+    "php": ">=7.1",
+    "spryker-feature/product": "~2018.11.0",
+    "spryker/product-validity": "^1.0.1"
+  }
+}
