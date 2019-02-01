@@ -8,5 +8,10 @@
     "php": ">=7.1",
     "spryker-feature/product": "^201902.0",
     "spryker/product-validity": "^1.0.1"
+  },
+  "extra": {
+    "branch-alias": {
+      "dev-master": "201902.x-dev"
+    }
   }
 }
