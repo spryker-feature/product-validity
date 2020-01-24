@@ -6,7 +6,9 @@
   "minimum-stability": "dev",
   "require": {
     "php": ">=7.1",
-    "spryker-feature/product": "~2018.12.0",
     "spryker/product-validity": "^1.0.1"
+  },
+  "suggest": {
+    "spryker-feature/product": "Recommended feature dependency."
   }
 }
