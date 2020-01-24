@@ -7,12 +7,14 @@
   "prefer-stable": true,
   "require": {
     "php": ">=7.1",
-    "spryker-feature/product": "^201903.0",
     "spryker/product-validity": "^1.0.1"
   },
   "extra": {
     "branch-alias": {
       "dev-master": "201903.x-dev"
     }
+  },
+  "suggest": {
+    "spryker-feature/product": "Recommended feature dependency."
   }
 }
